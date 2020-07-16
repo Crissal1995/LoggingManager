@@ -1,9 +1,9 @@
-import logging.handlers
 import os
 import subprocess
 import sys
 import typing
 from pathlib import Path
+import logging
 
 from LoggingManager import logger
 
