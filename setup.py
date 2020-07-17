@@ -3,7 +3,7 @@ import setuptools
 with open('README.md', 'r') as f:
     long_description = f.read()
 
-MAJOR, MINOR, MICRO = 0, 1, 0
+MAJOR, MINOR, MICRO = 0, 1, 1
 VERSION = '{}.{}.{}'.format(MAJOR, MINOR, MICRO)
 
 metadata = dict(

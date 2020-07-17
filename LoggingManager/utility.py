@@ -1,5 +1,5 @@
 import inspect
-from LoggingManager.logger import Levels
+from .logger import Levels
 
 
 def retrieve_name(var):

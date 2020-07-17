@@ -5,7 +5,7 @@ import typing
 from pathlib import Path
 import logging
 
-from LoggingManager import logger
+from . import logger
 
 
 class Manager:
